@@ -1,0 +1,18 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "one": "nodemon one.js",
+    "two": "nodemon two.js",
+    "three": "nodemon three.js",
+    "seven": "nodemon seven.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
